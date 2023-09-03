@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#section1 { background-image: url('../img/illustration-section-01.svg') }
+#section2 { background-image: url('../img/illustration-section-02.svg') }
+#herolinks { -xyz-delay: 750ms }
